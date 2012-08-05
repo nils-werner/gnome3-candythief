@@ -1,0 +1,5 @@
+* .notification-button,
+* .hotplug-notification-item,
+* .modal-dialog-button {
+	border-radius: 3px !important;
+}
