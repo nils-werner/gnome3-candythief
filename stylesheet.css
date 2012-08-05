@@ -1,5 +1,16 @@
-* .notification-button,
-* .hotplug-notification-item,
-* .modal-dialog-button {
-	border-radius: 3px !important;
+.dash-search-button,
+.notification-button,
+.notification-icon-button,
+.hotplug-notification-item,
+.hotplug-resident-eject-button,
+.modal-dialog-button {
+	border-radius: 3px;
+}
+
+.modal-dialog {
+	border-radius: 10px;
+}
+
+#notification {
+	border-radius: 10px 10px 0px 0px;
 }
