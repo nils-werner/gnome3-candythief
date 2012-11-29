@@ -4,13 +4,13 @@
 .hotplug-notification-item,
 .hotplug-resident-eject-button,
 .modal-dialog-button {
-	border-radius: 3px;
+	border-radius: 1px;
 }
 
 .modal-dialog {
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 #notification {
-	border-radius: 10px 10px 0px 0px;
+	border-radius: 5px 5px 0px 0px;
 }
