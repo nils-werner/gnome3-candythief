@@ -1,6 +1,7 @@
 {
-	"shell-version": ["3.4" , "3.6"],
+	"shell-version": ["3.4" , "3.6", "3.8"],
 	"uuid": "candythief@nils-werner.github.com",
 	"name": "Candy Thief",
+	"url": "http://github.com/nils-werner/candythief",
 	"description": "Removes the overly candy-like rounded borders."
 }
