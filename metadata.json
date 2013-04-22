@@ -3,5 +3,6 @@
 	"uuid": "candythief@nils-werner.github.com",
 	"name": "Candy Thief",
 	"url": "http://github.com/nils-werner/candythief",
-	"description": "Removes the overly candy-like rounded borders."
+	"description": "Removes the overly candy-like rounded borders.",
+	"version": 2
 }
